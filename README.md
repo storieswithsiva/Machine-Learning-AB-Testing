@@ -1,5 +1,4 @@
 # Machine-Learning-AB-Testing
-United States Presidential Election Data Analysis
 
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 ## Machine-Learning-AB-Testing
